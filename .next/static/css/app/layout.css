@@ -2209,7 +2209,7 @@ body {
 
 .sp-header {
   border-bottom: 1px solid #e5e5e5;
-  background: #fff;
+  background: #323232;
 }
 .sp-header-inner {
   max-width: 1320px;
@@ -2264,7 +2264,7 @@ body {
   color: #222;
 }
 .sp-header-icon-link {
-  color: #222;
+  color: #8d8d8d;
   text-decoration: none;
   position: relative;
   display: flex;

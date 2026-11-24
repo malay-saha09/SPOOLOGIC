@@ -65,9 +65,9 @@ export default function Footer() {
             &copy; {new Date().getFullYear()} SPOOLOGIC Turbo Systems. All rights reserved.
           </div>
           <div className="d-flex gap-3 mt-2 mt-sm-0">
-            <span className="text-muted">Terms of Service</span>
-            <span className="text-muted">Privacy Policy</span>
-            <span className="text-muted">California Prop 65 Compliance</span>
+            <span className="text-gray">Terms of Service</span>
+            <span className="text-gray">Privacy Policy</span>
+            <span className="text-gray">California Prop 65 Compliance</span>
           </div>
         </div>
       </div>
