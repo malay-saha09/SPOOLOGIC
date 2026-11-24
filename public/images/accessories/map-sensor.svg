@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="100%" height="100%">
+    
+      <defs>
+        <linearGradient id="sensorPlas" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#2a2e36"/>
+          <stop offset="100%" stop-color="#0b0d10"/>
+        </linearGradient>
+      </defs>
+      <rect width="100%" height="100%" fill="#111317" rx="12"/>
+      <circle cx="150" cy="115" r="95" fill="#1b1e24" stroke="#2c3038" stroke-width="1.5"/>
+      <!-- Sensor Body -->
+      <rect x="115" y="80" width="70" height="60" rx="8" fill="url(#sensorPlas)" stroke="#4e5666" stroke-width="2"/>
+      <!-- Mounting Ears -->
+      <circle cx="95" cy="110" r="14" fill="#1c2027" stroke="#4e5666" stroke-width="2"/>
+      <circle cx="95" cy="110" r="6" fill="#0b0d10"/>
+      <!-- Harness 3-pin plug connector -->
+      <path d="M 130,55 L 170,55 L 165,80 L 135,80 Z" fill="#15171c" stroke="#10b981" stroke-width="2"/>
+      <rect x="142" y="60" width="4" height="12" fill="#eab308"/>
+      <rect x="148" y="60" width="4" height="12" fill="#eab308"/>
+      <rect x="154" y="60" width="4" height="12" fill="#eab308"/>
+      <!-- Vacuum nozzle -->
+      <rect x="140" y="140" width="20" height="28" rx="3" fill="#2d333e" stroke="#606a7b" stroke-width="2"/>
+      <ellipse cx="150" cy="168" rx="8" ry="4" fill="#000000"/>
+      <circle cx="150" cy="110" r="12" fill="#10b981" opacity="0.2"/>
+      <circle cx="150" cy="110" r="4" fill="#10b981"/>
+    
+    <!-- Watermark / Brand Badge -->
+    <text x="150" y="218" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="800" fill="#4e5868" letter-spacing="1.5" text-anchor="middle">SPOOLOGIC® GENUINE PART</text>
+  </svg>

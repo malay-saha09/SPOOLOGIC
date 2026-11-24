@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="100%" height="100%">
+    
+      <defs>
+        <linearGradient id="housingGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+          <stop offset="0%" stop-color="#555e6d"/>
+          <stop offset="50%" stop-color="#323740"/>
+          <stop offset="100%" stop-color="#181a1f"/>
+        </linearGradient>
+      </defs>
+      <rect width="100%" height="100%" fill="#111317" rx="12"/>
+      <circle cx="150" cy="115" r="95" fill="#1b1e24" stroke="#2c3038" stroke-width="1.5"/>
+      <!-- Round Exhaust Outlet Housing -->
+      <circle cx="150" cy="115" r="60" fill="url(#housingGrad)" stroke="#677385" stroke-width="3"/>
+      <!-- Internal Throttle Bore -->
+      <circle cx="150" cy="115" r="42" fill="#0d0f12" stroke="#2a2e36" stroke-width="2"/>
+      <!-- Butterfly Flapper Valve Shaft & Plate -->
+      <ellipse cx="150" cy="115" rx="38" ry="12" fill="#4d5563" stroke="#e8ecf2" stroke-width="1.5" transform="rotate(-25 150 115)"/>
+      <line x1="110" y1="135" x2="190" y2="95" stroke="#f59e0b" stroke-width="4"/>
+      <!-- External Bellcrank lever -->
+      <circle cx="190" cy="95" r="7" fill="#f59e0b" stroke="#ffffff" stroke-width="1.5"/>
+      <!-- Flange bolt holes -->
+      <circle cx="150" cy="62" r="4.5" fill="#1a1c22" stroke="#8c97a8" stroke-width="1.5"/>
+      <circle cx="203" cy="115" r="4.5" fill="#1a1c22" stroke="#8c97a8" stroke-width="1.5"/>
+      <circle cx="150" cy="168" r="4.5" fill="#1a1c22" stroke="#8c97a8" stroke-width="1.5"/>
+      <circle cx="97" cy="115" r="4.5" fill="#1a1c22" stroke="#8c97a8" stroke-width="1.5"/>
+    
+    <!-- Watermark / Brand Badge -->
+    <text x="150" y="218" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="800" fill="#4e5868" letter-spacing="1.5" text-anchor="middle">SPOOLOGIC® GENUINE PART</text>
+  </svg>
